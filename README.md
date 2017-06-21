@@ -1,4 +1,4 @@
-# I've joined the <a href="https://javascript30.com/"> #Javascript30 Challenge </a>.
+# I've joined the <a href="https://javascript30.com/"> #Javascript30 Challenge</a>.
 
 <a href="https://javascript30.com/"><img src="https://lh3.googleusercontent.com/IsZDjah7Tm4_fYIGHaj761j2jNmoMJ9G4TDJHWSInInHz60o3CLRPvXQk4ScYffNyfHB8q8cIoidcKEzcTT7kp3kYOB-w4cLMNzhjglKkl_1Ifv6bg8AIbeAUVUvsJdDLdSlPRWP9mukem1JbdRzjqkNwW83QJtQ5xnD2kW03EtQBT7Q5fhqeBF8J4ToY_ABpE1K8AWRVK5Rw0yuB7Cxr2Mtk5v4hIlvw1g6KpGJch6xrFMXB0EROsFYFtt-8wi7RopmAJfy1Y5ah6fbXiH5p0ktK7opyFWQTmlYXAdgk0CkkVbKEwAm_MkkFXs9XJV4HySYdxWe3OcOWQkdwnaqUK41wkIi6wN31HPSqtEQEYSaxCPRFVQ2ZsALDYP0zSxc4TsQSEygtlotlroTiARxbzmE7pLmGcNVcS8X0uWjmVod3bSuq7GHKoHgHE7xsGeHoziC3T_V1QZV4Qv9obqG0B497kflnS5avwCe0LaYCZVFVPxGJuMMcxcyCdZr10Vbmgkc09WjWteh3lQU4_mBmmTjOy8v_ZDADq9xJVyRYXSmqUNLHx7FO-_EMfXBx-VaWtL1gSkY6Da2O2edQ2kPp_6MTIZDJhhSbvURXSSNa6v_RAx9OLqx1w=w686-h338-no" alt="Javascript30"></a>
 
