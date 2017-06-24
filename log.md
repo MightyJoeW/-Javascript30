@@ -142,3 +142,28 @@ Day 6: Wednesday June 21, 2017
 This was the first challenge in which I felt truly in over my head (which is a good thing). For the challenges so far, even if I wasn’t completely clear on something, I was still able to follow and make sense out of the process. This process was a beast!
  
 This challenge has the busiest Javascript file with functions and terminology galore. Revisit in future? Um YES!
+
+<h2 align="center">
+Day 7: Saturday June 23, 2017
+</h2>
+ 
+**Today's Progress**: 
+Completed #Javascript30 day 7 - Array Cardio Day 2
+
+<img src="https://lh3.googleusercontent.com/11DtQJvJh4EIz7JAtXFRF1tU54AYVW0j7BamUnIP-qnueHc-5X2P-jybmxa3eLd_gkfiWHZI8G_QkZTfhhMMp0iU48EYqFBWqRpmzG5sKzbi1s2-vchVFXtqH7Ww78xpkL0lumY7-03XM2LGIJ3R49ANvLuWhPL5UlQgeu3vk7m7ElUVfbFH27s5EjGaQO3FYx8qz8SaC0y5DCpQxZhDpS8lPlkdc_aSE_G2SwLF0dAxGtC-VGyN1gzbwBhMgsCGDpfZNqPkNJUU5CXzG74RROKNW8AxW8s8KY3q6JzOdSLug54ZykXfmrVdq1bwX7PuKXRH4gr_RFJjYwA5KHNVF1tqgU7EKBBFQa9kTan2Dw0JMYSK1Axis9XMX0p-X00tn2E1-hYCDPTeAOdLUOykZzIuBSE2J1PZfZ0FAraJo5UBGLLx0V6oI0aBmGAtFijHFMiP9UNJ2vNfsmTGNAu7j347E2XD3fBdnao_l1kQN07UNhTApYPy1SXr1iJVeznOGH9_hvKjs3mk5TCoELnyJgt_PBNe7du_zbv9kzqynRL276baRKZbRztmTiE-5ueepdWYhlmxilKDwx5OGkoN-rQO9WylPiGtq5USXJwytoQdY9N7-DDT0g=w1106-h627-no" alt="Array Cardio Day 2">
+
+**Thoughts:** 
+Work was really heavy on Thursday and Friday, but a lot of it had to do with code! I was asked to create a training guide for using Kajabi, and I decided to code my own based on my Documentation Guide for Free Code Camp. I went ahead and created a Github for my job and pushed the code, creating a Github Page for people to view the training guide. I'm on a mission to use these coding skills in any way shape or form on my current job lol.
+
+In regards to today’s #Javascript30 challenge, I went through the Array Cardio Day 2 exercise. This challenge focused on the following Array prototypes:
+ 
+- Array.prototype.some() //checks if at least 1 thing in array meets what you're looking for
+- Array.prototype.every() //checks if everything in array meets what you're looking for
+- Array.prototype.find() //returns first item it finds in an array
+- Array.prototype.findIndex() //find where something is in an array
+ 
+Wes shows how to use these prototypes in both ES5 and ES6 methods. As of today, this is more exposure and practice writing functions in Javascript. I’ll continue practicing until this becomes second nature. 
+ 
+With that finished, I’ll likely spend the rest of my coding time to day working on some Free Code Camp front end projects.
+
+
